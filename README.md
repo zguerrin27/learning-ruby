@@ -2,7 +2,8 @@ Starting the process of Learning Ruby.
 
 Day 1: 
   - Working on Ruby and Ruby on Rails Udemy Course 
-  - Basics like print vs puts (put string), and gets_chomp to store user input into a variable
+  - Basics like print vs puts (put string), and gets_chomp to store user input into a variable.
+  
 Day 2: 
   - Worked on Branching...(If / elsif statements)
   - Arrays and array methods 
