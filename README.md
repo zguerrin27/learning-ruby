@@ -16,5 +16,8 @@ Day 3:
   - Hash's (dictionaries)
   - symbols
   - while loops and incrementing
-  - made a little auth app. that tracks attempts 
-  - 
+  - made a little auth app. that tracks attempts.
+
+Day 4:
+  - Made a area code lib dictionry app 
+  
