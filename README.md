@@ -19,5 +19,10 @@ Day 3:
   - made a little auth app. that tracks attempts.
 
 Day 4:
-  - Made a area code lib dictionry app 
+  - Made a area code library/hash dictionry app 
+  - completed the github.io/TryRuby/  course.
+
+Day 5:
+  - Started working on Ruby Object Oriented Programming 
   
+
