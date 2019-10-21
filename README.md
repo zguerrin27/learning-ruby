@@ -24,5 +24,12 @@ Day 4:
 
 Day 5:
   - Started working on Ruby Object Oriented Programming 
-  
+  - Attributes
+  - Getter and Setter methods
+  - Initializer method
+  - installed first Gem!!!
+  - BCrypt GEM installed and used in crud.rb file
+  - creating modules ( toolkits for object manipulation )
+
+
 
