@@ -29,7 +29,13 @@ Day 5:
   - Initializer method
   - installed first Gem!!!
   - BCrypt GEM installed and used in crud.rb file
-  - creating modules ( toolkits for object manipulation )
+  - creating modules ( toolkits for object manipulation ).
+
+Day 6:
+  - Finished up section on Object Oriented Programming 
+  - finished working with mix-ins for using modules in classes by utilizing the include method 
+
+
 
 
 
