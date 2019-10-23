@@ -34,6 +34,14 @@ Day 5:
 Day 6:
   - Finished up section on Object Oriented Programming 
   - finished working with mix-ins for using modules in classes by utilizing the include method 
+  - Started learning about Rails
+  - MVC - Model View Controller setup for rails 
+  - used rails new appname command to create first rails app!!!!.
+
+Day 7:
+  - 
+
+
 
 
 
